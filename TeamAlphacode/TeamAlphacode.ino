@@ -18,7 +18,7 @@ char pass[] = "";   //put your network password
 WiFiClient  client;
 
 unsigned long myChannelNumber = 1930557;  // our thingspeak server channel number
-const char * myWriteAPIKey = "FDX53S006JXT6PN4";  // our thingspeak server api key 
+const char * myWriteAPIKey = "";  // put your thingspeak server api key 
 // our thingspeak server link :- https://thingspeak.com/channels/1930557
 
 
