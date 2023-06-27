@@ -20,3 +20,5 @@
 2. Please put your network password in the **char pass[]**<br/>
 3. Please put your Thingspeak server Channel number in **unsigned long myChannelNumber**<br/>
 4. Please put your Thingspeak server API key in **const char * myWriteAPIKey**
+### Image of Device
+![analyzer](https://github.com/saikatmondalcse/CSO211_Team_Alpha/assets/118079130/9ae37353-af58-4b89-a8e1-61a85d8a3cc3)
