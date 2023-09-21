@@ -12,7 +12,7 @@
 5. Saikat Mondal, 21075075, saikat.mondal.cse21@itbhu.ac.in
 6. Abhay Saxena, 21075101, abhay.saxena.cd.cse21@itbhu.ac.in
 
-**->Please find the code of the project in the TeamAlphacode folder.**
+->Please find the code of the project in the TeamAlphacode folder.
 
 #### **Things to keep in mind**
 
